@@ -203,7 +203,7 @@ body{
     background-color: var(--bg-mint-cream);
 }
 .hero-inner-wrapper{
-    background-image: url(images/leaves.png);
+    background-image: url(/Organic-shop/images/leaves.png);
     background-repeat: no-repeat;
     background-position: top left;
     padding: 93px 0 33px 0;
@@ -263,7 +263,7 @@ body{
     content: "";
     width: 64px;
     height: 64px;
-    background: var(--bg-green-lt) url(images/arrow-right.svg) no-repeat center;
+    background: var(--bg-green-lt) url(/Organic-shop/images/arrow-right.svg) no-repeat center;
     /* right: 0; */
     /* top: 50%; */
 
@@ -296,17 +296,17 @@ body{
 }
 
 .users {
-    background-image: url(images/user.svg);
+    background-image: url(/Organic-shop/images/user.svg);
     background-repeat: no-repeat;
     background-position: left 33px center;
 }
 .stars {
-    background-image: url(images/star.svg);
+    background-image: url(/Organic-shop/images/star.svg);
     background-repeat: no-repeat;
     background-position: left 33px center;
 }
 .items {
-    background-image: url(images/harvest.svg);
+    background-image: url(/Organic-shop/images/harvest.svg);
     background-repeat: no-repeat;
     background-position: left 33px center;
 }
@@ -378,7 +378,7 @@ body{
     display: block;
     width: 40px;
     height: 40px;
-    background: url(images/delivery-man.svg) no-repeat center;
+    background: url(/Organic-shop/images/delivery-man.svg) no-repeat center;
     position: absolute;
     top: 50%;
     left: 80px;
@@ -389,7 +389,7 @@ body{
     display: block;
     width: 40px;
     height: 40px;
-    background: url(images/list.svg) no-repeat center;
+    background: url(/Organic-shop/images/list.svg) no-repeat center;
     position: absolute;
     top: 50%;
     left: 80px;
@@ -400,7 +400,7 @@ body{
     display: block;
     width: 40px;
     height: 40px;
-    background: url(images/fast-time.svg) no-repeat center;
+    background: url(/Organic-shop/images/fast-time.svg) no-repeat center;
     position: absolute;
     top: 50%;
     left: 80px;
@@ -427,7 +427,7 @@ body{
     position: absolute;
     width: 15px;
     height: 34px;
-    background: url(images/arrow-down.svg) no-repeat center;
+    background: url(/Organic-shop/images/arrow-down.svg) no-repeat center;
     bottom: 0;
     left: 35%;
     animation: move 1s linear infinite;
@@ -439,7 +439,7 @@ body{
     display: flex;
     justify-content: center;
     padding-top: 31px;
-    background-image: url(images/elips-fruit.png), url(images/Ellipse-bg.png);
+    background-image: url(/Organic-shop/images/elips-fruit.png), url(/Organic-shop/images/Ellipse-bg.png);
     background-repeat: no-repeat;
     background-position: bottom 76px center, right 0 center;
     background-size: 400px contain;
@@ -484,7 +484,7 @@ body{
 }
 
 .vegetable-inner-wrapper {
-    background-image: url(images/fresh-melientha-suavis.png);
+    background-image: url(/Organic-shop/images/fresh-melientha-suavis.png);
     background-repeat: no-repeat;
     background-position: right 50px bottom;
     background-size: auto;
@@ -583,7 +583,7 @@ body{
     display: block;
     width: 12px;
     height: 18px;
-    background: url(images/vector-left.svg) no-repeat center;
+    background: url(/Organic-shop/images/vector-left.svg) no-repeat center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -597,7 +597,7 @@ body{
 
 .slider-prev.active::before{
     content:"";
-    background: url(images/vector-left-active.svg) no-repeat center;
+    background: url(/Organic-shop/images/vector-left-active.svg) no-repeat center;
 }
 
 .slider-next{
@@ -609,7 +609,7 @@ body{
     display: block;
     width: 12px;
     height: 18px;
-    background: url(images/vector-right.svg) no-repeat center;
+    background: url(/Organic-shop/images/vector-right.svg) no-repeat center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -624,7 +624,7 @@ body{
 
 .slider-next.active::before {
     content: "";
-    background: url(images/vector-right-active.svg) no-repeat center;
+    background: url(/Organic-shop/images/vector-right-active.svg) no-repeat center;
 }
 
 .slick-dots {
@@ -718,7 +718,7 @@ body{
 }
 
 .app-store {
-    background: var(--color-black) url(images/apple.svg) no-repeat left 12px center;
+    background: var(--color-black) url(/Organic-shop/images/apple.svg) no-repeat left 12px center;
     font-size: 12px;
     line-height: 12px;
     font-weight: 500;
@@ -737,7 +737,7 @@ body{
 }
 
 .google-play {
-    background: var(--color-black) url(images/google.svg) no-repeat left 8px center;
+    background: var(--color-black) url(/Organic-shop/images/google.svg) no-repeat left 8px center;
         font-size: 11px;
         line-height: 12px;
         font-weight: 500;
